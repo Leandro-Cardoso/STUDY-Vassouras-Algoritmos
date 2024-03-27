@@ -24,7 +24,13 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
     * [Exercício 10](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula01/exercicio10.py)
     * [Exercício 11](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula01/exercicio11.py)
     * [Exercício 12](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula01/exercicio12.py)
-* [Aula 02:](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula02/aula02.py)
+* [Aula 02 - Listas:](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula02/aula02.py)
+* [Aula 03 - Bibliotecas, operadores matemáticos e casting:](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula03/aula03.py)
+    * Tarefa 01:
+        * [Exercício 01](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula03/exercicio01_01.py)
+        * [Exercício 02](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula03/exercicio01_02.py)
+        * [Exercício 03](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula03/exercicio01_03.py)
+        * [Exercício 04](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula03/exercicio01_04.py)
 
 <div align="center">
     <h2>Autor</h2>
