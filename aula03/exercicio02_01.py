@@ -13,4 +13,30 @@ critério, baseado no salário atual:
     aumento.
 '''
 
+def aumentar_salario(salario:float) -> dict:
+    if salario <= 280:
+        percentual = 0.2
+    elif salario <= 700:
+        percentual = 0.15
+    elif salario <= 1500:
+        percentual = 0.1
+    else:
+        percentual = 0.05
 
+    aumento = salario * percentual
+    novo_salario = salario + aumento
+
+    return {
+        'salario' : salario,
+        'percentual' : percentual,
+        'aumento' : aumento,
+        'novo_salario' : novo_salario
+    }
+
+salario = float(input('Qual o salário do colaborador: '))
+tabela = aumentar_salario(salario)
+
+print(f'\nSalário antigo: R$ {tabela["salario"]:.2f}')
+print(f'Percentual do aumento: {tabela["percentual"] * 100:.1f} %')
+print(f'Valor do aumento: R$ {tabela["aumento"]:.2f}')
+print(f'Novo salário: R$ {tabela["novo_salario"]:.2f}\n')
