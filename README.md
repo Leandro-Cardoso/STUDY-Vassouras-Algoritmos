@@ -38,6 +38,11 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
         * [Exercício 01](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula03/exercicio03_01.py)
         * [Exercício 02](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula03/exercicio03_02.py)
         * [Exercício 03](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula03/exercicio03_03.py)
+* Aula 04:
+    * [Exercício 01](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula04/exercicio01.py)
+    * [Exercício 02](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula04/exercicio02.py)
+    * [Exercício 03](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula04/exercicio03.py)
+    * [Exercício 04](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula04/exercicio04.py)
 
 <div align="center">
     <h2>Autor</h2>
