@@ -43,6 +43,13 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
     * [Exercício 02](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula04/exercicio02.py)
     * [Exercício 03](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula04/exercicio03.py)
     * [Exercício 04](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula04/exercicio04.py)
+* [Aula 05:](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula05/aula05.py)
+    * [Exercício 01](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula05/exercicio01.py)
+    * [Exercício 02](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula05/exercicio02.py)
+    * [Exercício 03](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula05/exercicio03.py)
+    * [Exercício 04](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula05/exercicio04.py)
+    * [Exercício 05](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula05/exercicio05.py)
+    * [Exercício 06](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula05/exercicio06.py)
 
 <div align="center">
     <h2>Autor</h2>
