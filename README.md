@@ -50,7 +50,7 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
     * [Exercício 04](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula05/exercicio04.py)
     * [Exercício 05](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula05/exercicio05.py)
     * [Exercício 06](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula05/exercicio06.py)
-* [Aula 06 - Revisão de loops e bibliotecas:](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula06/aula06.py)
+* [Aula 06 - Revisão da P1, loops e bibliotecas:](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula06/aula06.py)
     * [Exercício 01](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula06/exercicio01.py)
     * [Exercício 02](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula06/exercicio02.py)
     * [Exercício 03](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula06/exercicio03.py)
@@ -58,6 +58,12 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
     * [Exercício 05](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula06/exercicio05.py)
     * [Exercício 06](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula06/exercicio06.py)
     * [Exercício 07](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula06/exercicio07.py)
+    * Revisão da P1:
+        * [Exercício 01](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula06/revisao_p1/exercicio01.py)
+        * [Exercício 02](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula06/revisao_p1/exercicio02.py)
+        * [Exercício 03](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula06/revisao_p1/exercicio03.py)
+        * [Exercício 04](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula06/revisao_p1/exercicio04.py)
+        * [Exercício 05](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula06/revisao_p1/exercicio05.py)
 
 <div align="center">
     <h2>Autor</h2>
