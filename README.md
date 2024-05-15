@@ -71,6 +71,11 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
     * [Questão 04](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/p1/questao04.py)
     * [Questão 05](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/p1/questao05.py)
     * [Questão 06](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/p1/questao06.py)
+* [Aula 07 - Trabalho da P2, coleções, busca em listas:](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula07/aula07.py)
+    * [Exercício 01](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula07/exercicio01.py)
+    * [Exercício 02](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula07/exercicio02.py)
+    * [Exercício 03](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula07/exercicio03.py)
+    * [Exercício 04 - Busca binária](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula07/exercicio04.py)
 
 <div align="center">
     <h2>Autor</h2>
