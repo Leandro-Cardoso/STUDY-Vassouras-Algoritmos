@@ -76,6 +76,15 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
     * [Exercício 02](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula07/exercicio02.py)
     * [Exercício 03](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula07/exercicio03.py)
     * [Exercício 04 - Busca binária](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula07/exercicio04.py)
+* P2 - Trabalho:
+    * [Selection Sort Algorithm](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/p2-trabalho/selection_sort.py)
+    * [Bubble Sort Algorithm](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/p2-trabalho/bubble_sort.py)
+    * [Insertion Sort Algorithm](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/p2-trabalho/insertion_sort.py)
+    * [Merge Sort Algorithm](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/p2-trabalho/merge_sort.py)
+    * [Quick Sort Algorithm](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/p2-trabalho/quick_sort.py)
+    * [Heap Sort Algorithm](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/p2-trabalho/heap_sort.py)
+    * [Counting Sort Algorithm](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/p2-trabalho/counting_sort.py)
+    * [Radix Sort Algorithm](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/p2-trabalho/radix_sort.py)
 
 <div align="center">
     <h2>Autor</h2>
