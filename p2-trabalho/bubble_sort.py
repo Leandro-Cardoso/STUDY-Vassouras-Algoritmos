@@ -1,12 +1,12 @@
 '''
 BUBBLE SORT:
-    Funão para ordenar uma lista com base na troca de cada elemento.
+    Algoritmo para ordenar uma lista com base na troca de cada elemento.
 
 Vantagem:
     Fácil de entender o funcionamento, satisfatorio para listas pequenas e boa para iniciantes.
 
 Desvantagens:
-    Não é eficiente com listas grandes, pois é necessário percorrer toda a lista.
+    Não é eficiente com listas grandes, pois é necessário percorrer toda a lista por varias vezes.
 
 Passo a passo:
     Compara o primeiro com o segundo elemento, se o primeiro for maior que o segundo elemento, eles trocam de posição.
@@ -18,9 +18,10 @@ Passo a passo:
 
 def bubble_sort(lista:list) -> list:
     trocar = True
+    n = len(lista)
     while trocar:
         trocar = False
-        for i in range(len(lista) - 1):
+        for i in range(n - 1):
             if lista[i] > lista[i + 1]:
                 lista[i], lista[i + 1] = lista[i + 1], lista[i]
                 trocar = True
