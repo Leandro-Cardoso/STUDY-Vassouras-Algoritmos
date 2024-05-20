@@ -7,6 +7,7 @@ Vantagem:
 
 Desvantagens:
     Não é eficiente com listas grandes, pois é necessário percorrer toda a lista por varias vezes.
+    A eficiencia cai exponencialmente de acordo com o tamanho da lista.
 
 Passo a passo:
     Começando do segundo elemento de uma lista, compare com o anterior. Se maior, mantem a posição, se menor, trocam de posição.
