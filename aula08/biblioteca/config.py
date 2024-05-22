@@ -1,0 +1,2 @@
+USUARIO_ADMIN = 'Leandro'
+SENHA_ADMIN = '2510'
