@@ -86,7 +86,10 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
     * [Counting Sort Algorithm](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/p2-trabalho/counting_sort.py)
     * [Radix Sort Algorithm](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/p2-trabalho/radix_sort.py)
 * [Aula 08 - Busca binária e trabalho da biblioteca:](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula08/aula08.py)
-    * [Atividade: Biblioteca](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula08/biblioteca)
+    * [Atividade 01 - Biblioteca](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula08/biblioteca)
+* [Aula 09 - Leitura e escrita de arquivos, log e erros:](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula09/aula09.py)
+    * [Exercício 01](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula09/exercicio01.py)
+    * [Exercício 02](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos/blob/main/aula09/exercicio02.py)
 
 <div align="center">
     <h2>Autor</h2>
