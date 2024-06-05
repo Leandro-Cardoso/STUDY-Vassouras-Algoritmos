@@ -14,19 +14,18 @@ Passo a passo:
     Encontrar segundo menor ou o maior elemento da lista e por como segundo, e assim por diante, até o último elemento.
 '''
 
-def selection_sort(lista:list) -> list:
-    n = len(lista)
+def selection_sort(arr:list) -> list:
+    n = len(arr)
     for i in range(n - 1):
-        j_menor = i
+        j_min = i
         for j in range(i, n):
-            if lista[j] < lista[j_menor]:
-                j_menor = j
-        if lista[j_menor] < lista[i]:
-            lista[j_menor], lista[i] = lista[i], lista[j_menor]
-    return lista
+            if arr[j] < arr[j_min]:
+                j_min = j
+        if arr[j_min] < arr[i]:
+            arr[j_min], arr[i] = arr[i], arr[j_min]
+    return arr
 
-lista = [10, 5, 7, 1, 8, 9, 4, 2, 3, 6]
-
-lista_ordenada = selection_sort(lista)
-
-print(f'\nLista ordenada: {lista_ordenada}\n')
+if __name__ == '__main__':
+    lista = [10, 5, 7, 1, 8, 9, 4, 2, 3, 6]
+    selection_sort(lista)
+    print(f'\nLista ordenada: {lista}\n')

@@ -15,19 +15,18 @@ Passo a passo:
     Seguir os mesmos passos com os próximos elementos da lista, até o final.
 '''
 
-def insertion_sort(lista:list) -> list:
-    n = len(lista)
+def insertion_sort(arr:list) -> list:
+    n = len(arr)
     for i in range(1, n):
-        elemento = lista[i]
+        element = arr[i]
         i_ant = i - 1
-        while i_ant >= 0 and lista[i_ant] > elemento:
-            lista[i_ant + 1] = lista[i_ant]
+        while i_ant >= 0 and arr[i_ant] > element:
+            arr[i_ant + 1] = arr[i_ant]
             i_ant -= 1
-        lista[i_ant + 1] = elemento
-    return lista
+        arr[i_ant + 1] = element
+    return arr
 
-lista = [10, 5, 7, 1, 8, 9, 4, 2, 3, 6]
-
-lista_ordenada = insertion_sort(lista)
-
-print(f'\nLista ordenada: {lista_ordenada}\n')
+if __name__ == '__main__':
+    lista = [10, 5, 7, 1, 8, 9, 4, 2, 3, 6]
+    insertion_sort(lista)
+    print(f'\nLista ordenada: {lista}\n')
